@@ -29,5 +29,3 @@
 - `npx playwright test` - runs the end-to-end tests. (headless mode)
 - `npx playwright test --ui` - starts the interactive UI mode.
 - `npx playwright test --project=chromium` - runs the tests only on Desktop Chrome.
-- `npx playwright test example` - runs the tests in a specific file.
-- `npx playwright test --debug` - runs the tests in debug mode.
